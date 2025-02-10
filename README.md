@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RiroGIT4000, i'm brazilian 
-- 👀 I’m interested in making mods for Minecraft
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Minecraft mods creation
+- 👀 I’m interested in making money
+- 🌱 I’m currently learning C++ (help)
+- 💞️ I’m looking to exist
 - 📫 My discord is Riro #2098
 
 <!---
